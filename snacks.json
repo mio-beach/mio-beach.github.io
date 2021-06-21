@@ -1,0 +1,54 @@
+[
+    {
+        "productName": "Sucuk Baguette ⁽A,B,C,D,E,F,G,H⁾",
+        "price": "5,80€"
+      },
+        {
+        "productName": "Putenbrust Baguette ⁽A,B,C,E,H,I⁾",
+        "price": "5,50€"
+      },
+        {
+        "productName": "Putensalami Baguette ⁽A,B,C,D,E,F,G,H,I⁾",
+        "price": "5,50€"
+      },
+        {
+        "productName": "Kaese Baguette ⁽A,B,C,D,F,G,H⁾",
+        "price": "5,20€"
+      },
+        {
+        "productName": "Pringles Classic",
+        "price": "2,00€"
+      },
+        {
+        "productName": "Pringles Paprika",
+        "price": "2,00€"
+      },    
+            {
+        "productName": "Pringles Hot & Spicy",
+        "price": "2,00€"
+      },    
+            {
+        "productName": "Pringles Sour & Cream",
+        "price": "2,00€"
+      },    
+            {
+        "productName": "Nussmischung",
+        "price": "2,00€"
+      },
+                {
+        "productName": "Chilli Peanuts",
+        "price": "2,00€"
+      },    
+                {
+        "productName": "Pistazien",
+        "price": "2,00€"
+      },    
+                   {
+        "productName": "BBQ Nuts",
+        "price": "2,00€"
+      },   
+                   {
+        "productName": "Giant Mais",
+        "price": "2,00€"
+      }  
+]

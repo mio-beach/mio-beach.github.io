@@ -1,0 +1,72 @@
+[
+    {
+        "productName": "Jack Daniel's",
+        "ltr": "2cl",
+        "price": "5,00€"
+      },
+{
+        "productName": "Jack Daniel's",
+        "ltr": "4cl",
+        "price": "6,50€"
+      },
+    {
+        "productName": "Johnnie Walker Red Label ⁽¹⁾",
+        "ltr": "2cl",
+        "price": "5,00€"
+      },
+    {
+        "productName": "Johnnie Walker Red Label ⁽¹⁾",
+        "ltr": "4cl",
+        "price": "6,50€"
+      },
+    {
+        "productName": "Marker's Mark",
+        "ltr": "2cl",
+        "price": "5,00€"
+      },
+    {
+        "productName": "Marker's Mark",
+        "ltr": "4cl",
+        "price": "6,50€"
+      },
+    {
+        "productName": "Captain Morgan ⁽¹⁾",
+        "ltr": "2cl",
+        "price": "5,00€"
+      },
+    {
+        "productName": "Captain Morgan ⁽¹⁾",
+        "ltr": "4cl",
+        "price": "6,50€"
+      },
+    {
+        "productName": "Baileys ⁽C⁾",
+        "ltr": "2cl",
+        "price": "5,00€"
+      },
+    {
+        "productName": "Baileys ⁽C⁾",
+        "ltr": "4cl",
+        "price": "6,50€"
+      },
+    {
+        "productName": "Tekirdag Raki",
+        "ltr": "2cl",
+        "price": "5,00€"
+      },
+    {
+        "productName": "Tekirdag Raki",
+        "ltr": "4cl",
+        "price": "6,00€"
+      },
+    {
+        "productName": "Yeni Raki",
+        "ltr": "2cl",
+        "price": "4,50€"
+      },
+    {
+        "productName": "Yeni Raki",
+        "ltr": "4cl",
+        "price": "5,50€"
+      }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "productName": "Ananassaft",
+        "ltr": "0,40l",
+        "price": "3,80€"
+      },
+    {
+        "productName": "Ananassaftschorle",
+        "ltr": "0,40l",
+        "price": "3,60€"
+      },
+        {
+        "productName": "Apfelsaft",
+        "ltr": "0,40l",
+        "price": "3,80€"
+      },    
+    {
+        "productName": "Apfelsaftschorle",
+        "ltr": "0,40l",
+        "price": "3,60€"
+      },   
+    {
+        "productName": "Bananensaft ⁽¹¹⁾",
+        "ltr": "0,40l",
+        "price": "3,80€"
+      },    
+    {
+        "productName": "Kirschsaft ⁽¹¹⁾",
+        "ltr": "0,40l",
+        "price": "3,80€"
+      },    
+    {
+        "productName": "Kirschsaftschorle ⁽¹¹⁾",
+        "ltr": "0,40l",
+        "price": "3,60€"
+      },    
+    {
+        "productName": "KiBa ⁽¹¹⁾",
+        "ltr": "0,40l",
+        "price": "3,80€"
+      },    
+    {
+        "productName": "Maracujanektar",
+        "ltr": "0,40l",
+        "price": "3,80€"
+      },   
+    {
+        "productName": "Maracujanektarschorle",
+        "ltr": "0,40l",
+        "price": "3,60€"
+      },    
+    {
+        "productName": "Orangensaft",
+        "ltr": "0,40l",
+        "price": "3,80€"
+      },   
+    {
+        "productName": "Orangensaftschorle",
+        "ltr": "0,40l",
+        "price": "3,60€"
+      }
+      
+]

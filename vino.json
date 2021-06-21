@@ -1,0 +1,32 @@
+[
+    {
+        "productName": "Weisswein ⁽⁵⁾",
+        "ltr": "0,20l",
+        "price": "4,50€"
+      },
+     {
+        "productName": "Weissweinschorle ⁽⁵⁾",
+        "ltr": "0,20l",
+        "price": "4,00€"
+      },
+     {
+        "productName": "Rosè ⁽⁵⁾",
+        "ltr": "0,20l",
+        "price": "4,50€"
+      },
+     {
+        "productName": "Rosèschorle ⁽⁵⁾",
+        "ltr": "0,20l",
+        "price": "4,00€"
+      },
+     {
+        "productName": "Rotwein ⁽⁵⁾",
+        "ltr": "0,20l",
+        "price": "4,50€"
+      },
+     {
+        "productName": "Prosecco Scavy & Ray ⁽⁵⁾",
+        "ltr": "0,20l",
+        "price": "3,80€"
+      }
+]
