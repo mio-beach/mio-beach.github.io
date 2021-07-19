@@ -2,28 +2,16 @@
     {
         "productName": "Corona ⁽³ ¹¹ J⁾",
         "ltr": "0.355l",
-        "price": "3,80€"
+        "price": "4,00€"
       },
-
+{
+        "productName": "Desperados ⁽³ ¹¹ J⁾",
+        "ltr": "0.33l",
+        "price": "4,00€"
+      },
       {
         "productName": "Heineken ⁽J⁾",
         "ltr": "0.33l",
-        "price": "3,60€"
-      },
-
-      {
-        "productName": "Efes ⁽J⁾",
-        "ltr": "0.33l",
-        "price": "3,60€"
-      },
-          {
-        "productName": "Kapsele ⁽J⁾",
-        "ltr": "0.25l",
-        "price": "3,20€"
-      },
-          {
-        "productName": "Stuttgarter Hofbrau Radler ⁽J⁾",
-        "ltr": "0.33l",
-        "price": "3,00€"
+        "price": "3,80€"
       }
 ]
