@@ -1,11 +1,26 @@
-[
+[ 
+     {
+        "productName": "Lillet ⁽⁵ ¹¹⁾",
+        "ltr": "0,20l",
+        "price": "6,50€"
+      },
+          {
+        "productName": "Hugo ⁽⁵ ¹¹⁾",
+        "ltr": "0,20l",
+        "price": "6,50€"
+      },
+          {
+        "productName": "Aperol Spritz ⁽¹ ⁵ ¹⁴⁾",
+        "ltr": "0,20l",
+        "price": "6,50€"
+      },
     {
         "productName": "Weisswein ⁽⁵⁾",
         "ltr": "0,20l",
         "price": "4,50€"
       },
      {
-        "productName": "Weissweinschorle ⁽⁵⁾",
+        "productName": "Weissweinschorle suess/sauer ⁽⁵⁾",
         "ltr": "0,20l",
         "price": "4,00€"
       },
@@ -15,18 +30,8 @@
         "price": "4,50€"
       },
      {
-        "productName": "Rosèschorle ⁽⁵⁾",
+        "productName": "Rosèschorle suess/sauer ⁽⁵⁾",
         "ltr": "0,20l",
         "price": "4,00€"
-      },
-     {
-        "productName": "Rotwein ⁽⁵⁾",
-        "ltr": "0,20l",
-        "price": "4,50€"
-      },
-     {
-        "productName": "Prosecco Scavy & Ray ⁽⁵⁾",
-        "ltr": "0,20l",
-        "price": "3,80€"
       }
 ]
