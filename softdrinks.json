@@ -3,7 +3,7 @@
         "ltr": "0.20l",
         "price": "3,00€"
     },
-      {"productName": "Coca Cola Zero              ⁽¹ ⁸ ⁹ ¹¹⁾",
+      {"productName": "Coca Cola Zero ⁽¹ ⁸ ⁹ ¹¹⁾",
         "ltr": "0.20l",
         "price": "3,00€"},
       {
@@ -11,85 +11,71 @@
         "ltr": "0.20l",
         "price": "3,00€"
       },
-     
       {
         "productName": "Orangina",
         "ltr": "0.25l",
-        "price": "3,20€"
+        "price": "3,40€"
       },
       {
         "productName": "Orangina Rouge ⁽¹⁾",
         "ltr": "0.25l",
-        "price": "3,80€"
+        "price": "3,40€"
       },
       {
         "productName": "Elephant Bay Ice Tea ⁽³ ¹¹⁾", 
         "ltr": "0.33l",
-        "price": "3,80€"
+        "price": "4,00€"
       },
     
       {
         "productName": "RedBull ⁽¹ ¹¹ ¹² ¹³⁾",
         "ltr": "0.25l",
-        "price": "3,80€"
+        "price": "4,00€"
       },
 
       {
         "productName": "RedBull Sugarfree ⁽¹ ⁸ ⁹ ¹¹ ¹²⁾",
         "ltr": "0.25l",
-        "price": "3,80€"
+        "price": "4,00€"
       },
     
       {
         "productName": "RedBull Red/White/Blue/Green ⁽¹ ¹¹ ¹² ¹³⁾",
         "ltr": "0.25l",
-        "price": "3,80€"
+        "price": "4,00€"
       },
     
       {
         "productName": "28 Black ⁽¹ ¹⁰ ¹¹ ¹²⁾",
         "ltr": "0.25l",
-        "price": "3,80€"},
+        "price": "4,00€"
+      },
        {"productName": "28 Black ⁽¹ ¹⁰ ¹¹ ¹²⁾ + Eis, Limetten & frische Minze",
         "ltr": "0.25l",
-        "price": "4,20€"
+        "price": "4,50€"
       },
       {
         "productName": "Moloko ⁽³ ¹⁰ ¹¹⁾",
         "ltr": "0.25l",
-        "price": "3,80€"},
+        "price": "4,00€"
+      },
        {"productName": "Moloko ⁽³ ¹⁰ ¹¹⁾ + Eis, Limetten & frische Minze",
         "ltr": "0.25l",
-        "price": "4,20€"
+        "price": "4,50€"
       },
-      {
-        "productName": "Ensinger Wasser Medium/Still",
+    {
+        "productName": "GUA Saft Mango/Guave/Litschi",
         "ltr": "0.25l",
-        "price": "2,60€"
+        "price": "3,50€"
       },
       {
-        "productName": "Wasser Spezial",
-        "ltr": "0.40l",
-        "price": "3,60€"
+        "productName": "Teinacher Wasser Medium/Still",
+        "ltr": "0.25l",
+        "price": "3,00€"
       },
       {
-        "productName": "Schweppes Ginger Ale ⁽¹ ¹¹⁾",
-        "ltr": "0.20l",
-        "price": "2,80€"
-      },
-      {
-        "productName": "Schweppes Bitter Lemon ⁽³ ¹¹ ¹⁴⁾",
-        "ltr": "0.20l",
-        "price": "2,80€"
-      },
-      {
-        "productName": "Schweppes Tonic Water ⁽¹¹ ¹⁴⁾",
-        "ltr": "0.20l",
-        "price": "2,80€"
-      },
-      {
-        "productName": "Schweppes Russian Wildberry ⁽¹¹⁾",
-        "ltr": "0.20l",
-        "price": "2,80€"
+        "productName": "Teinacher Wasser Medium",
+        "ltr": "0.50l",
+        "price": "5,50€"
       }
 ]
