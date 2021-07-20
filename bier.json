@@ -1,17 +1,35 @@
 [
     {
+        "productName": "***GETRÄNKEBESTELLUNG AN DER BAR***"
+      },
+    {
         "productName": "Corona ⁽³ ¹¹ J⁾",
         "ltr": "0.355l",
         "price": "4,00€"
+      },
+     {
+        "productName": "Corona Bucket (5 Stck.) ⁽³ ¹¹ J⁾",
+        "ltr": "0.355l",
+        "price": "18,00€"
       },
 {
         "productName": "Desperados ⁽³ ¹¹ J⁾",
         "ltr": "0.33l",
         "price": "4,00€"
       },
+    {
+        "productName": "Desperados Bucket (5 Stck.) ⁽³ ¹¹ J⁾",
+        "ltr": "0.33l",
+        "price": "18,00€"
+      },
       {
         "productName": "Heineken ⁽J⁾",
         "ltr": "0.33l",
         "price": "3,80€"
+      },
+    {
+        "productName": "Heineken Bucket (5 Stck.) ⁽J⁾",
+        "ltr": "0.33l",
+        "price": "16,00€"
       }
 ]
