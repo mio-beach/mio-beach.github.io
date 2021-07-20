@@ -7,7 +7,7 @@
         "ltr": "0.20l",
         "price": "3,00€"},
       {
-        "productName": "Mezzo Mix ⁽¹ ¹⁰ ¹¹⁾",
+        "productName": "Sprite ⁽¹ ¹⁰ ¹¹⁾",
         "ltr": "0.20l",
         "price": "3,00€"
       },
@@ -38,7 +38,11 @@
         "ltr": "0.25l",
         "price": "4,00€"
       },
-    
+     {
+        "productName": "Colombia Blue/Black ⁽¹ ⁸ ⁹ ¹¹ ¹²⁾",
+        "ltr": "0.25l",
+        "price": "4,00€"
+      },
       {
         "productName": "RedBull Red/White/Blue/Green ⁽¹ ¹¹ ¹² ¹³⁾",
         "ltr": "0.25l",
