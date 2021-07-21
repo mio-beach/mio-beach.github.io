@@ -1,19 +1,34 @@
 [
     {
-        "productName": "Coca Cola",
-        "ltr": 0.25,
-        "price": "3,10€"
+        "productName": "Traube Minze"
+        "price": "15,00 €"
       },
-
-      {
-        "productName": "Fanta - Mezzo - Sprite⁰",
-        "ltr": 0.25,
-        "price": "3,10€"
+{
+        "productName": "Persischer Apfel"
+        "price": "15,00 €"
       },
-
-      {
-        "productName": "Schwarze Dose Spezial",
-        "ltr": 0.33,
-        "price": "3,10€"
-      }
+{
+        "productName": "Falim Red"
+        "price": "15,00 €"
+      },
+{
+        "productName": "187 Hamburg"
+        "price": "17,00 €"
+   },
+   {    
+        "productName": "Black Box"
+        "price": "17,00 €"   
+ },
+    {    
+        "productName": "African Queen"
+        "price": "17,00 €"   
+ },
+    {    
+        "productName": "Lemon Splash"
+        "price": "17,00 €"   
+ },
+    {    
+        "productName": "Okolom (Moloko)"
+        "price": "17,00 €"   
+ }
 ]
