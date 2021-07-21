@@ -15,5 +15,20 @@
         "productName": "Jack Daniel's",
         "ltr": "0,70l",
         "price": "75,00€"
+      },
+       {
+        "productName": "MOET Brut Imperial",
+        "ltr": "0,75l",
+        "price": "90,00€"
+      },
+    {
+        "productName": "MOET Brut Ice",
+        "ltr": "0,75l",
+        "price": "105,00€"
+      },
+       {
+        "productName": "Scavy & Ray",
+        "ltr": "0,75l",
+        "price": "40,00€"
       }
 ]
