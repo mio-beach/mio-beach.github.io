@@ -7,6 +7,16 @@
         "ltr": "0.20l",
         "price": "3,00€"
        },
+    {
+        "productName": "Fanta ⁽¹ ¹⁰ ¹¹⁾",
+        "ltr": "0.20l",
+        "price": "3,00€"
+      },
+    {
+        "productName": "Mezzo Mix ⁽¹ ¹⁰ ¹¹⁾",
+        "ltr": "0.20l",
+        "price": "3,00€"
+      },
       {
         "productName": "Sprite ⁽¹ ¹⁰ ¹¹⁾",
         "ltr": "0.20l",
@@ -40,7 +50,7 @@
         "price": "4,00€"
       },
      {
-        "productName": "Colombia Blue/Black ⁽¹ ⁸ ⁹ ¹¹ ¹²⁾",
+        "productName": "Colombia White Blue/Black ⁽¹ ⁸ ⁹ ¹¹ ¹²⁾",
         "ltr": "0.25l",
         "price": "4,00€"
       },
